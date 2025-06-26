@@ -1,0 +1,11 @@
+# Secret file containing the database password
+db_password.txt
+
+# Secret file containing the database username
+db_user.txt
+
+# Secret file containing the Metabase encryption key
+mb_key.txt
+
+# Environment variables file for docker-compose
+.env
